@@ -14,6 +14,12 @@ STREAM_MAP = {
             'icon': 'https://s.yimg.com/ea/img/-/151001/seven_logo_large_1b0pc8g-1b0pc8k.png',
             'path': 'https://sevenwestmedia01-i.akamaihd.net/hls/live/224838/MISC2/master_vhigh.m3u8',
             'is_playable': True
+        },
+        {
+            'label': 'Racing.com',
+            'icon': 'https://cdn.racing.com/resources/Racing/img/favicon/hub/favicon-200x200.png',
+            'path': 'https://sevenwestmedia01-i.akamaihd.net/hls/live/224825/MISC1/master.m3u8',
+            'is_playable': True
         }
     ],
     'NSW': [
