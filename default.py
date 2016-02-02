@@ -40,6 +40,12 @@ STREAM_MAP = {
             'icon': 'https://s.yimg.com/ea/img/-/150930/7mate_logo_1b0mbg3-1b0mbg8.png',
             'path': 'https://sevenwestmedia01-i.akamaihd.net/hls/live/224840/SYD3/master.m3u8',
             'is_playable': True
+        },
+        {
+            'label': 'Nine Sydney',
+            'icon': 'https://s3-ap-southeast-2.amazonaws.com/mi9-vms-images-prod/2015/11/11/9_Colour_RGB.png',
+            'path': 'https://9nowlivehls-i.akamaihd.net/hls/live/226554/ch9sydprd/master.m3u8',
+            'is_playable': True
         }
     ],
     'QLD': [
@@ -186,6 +192,12 @@ STREAM_MAP = {
             'icon': 'https://s.yimg.com/ea/img/-/150930/7mate_logo_1b0mbg3-1b0mbg8.png',
             'path': 'https://sevenwestmedia01-i.akamaihd.net/hls/live/224848/WBY3/master.m3u8',
             'is_playable': True
+        },
+        {
+            'label': 'Nine Brisbane',
+            'icon': 'https://s3-ap-southeast-2.amazonaws.com/mi9-vms-images-prod/2015/11/11/9_Colour_RGB.png',
+            'path': 'https://9nowlivehls-i.akamaihd.net/hls/live/226646/ch9bneprd/master.m3u8',
+            'is_playable': True
         }
     ],
     'VIC': [
@@ -212,6 +224,12 @@ STREAM_MAP = {
             'icon': 'https://s.yimg.com/ea/img/-/150930/7mate_logo_1b0mbg3-1b0mbg8.png',
             'path': 'https://sevenwestmedia01-i.akamaihd.net/hls/live/224839/MEL3/master.m3u8',
             'is_playable': True
+        },
+        {
+            'label': 'Nine Melbourne',
+            'icon': 'https://s3-ap-southeast-2.amazonaws.com/mi9-vms-images-prod/2015/11/11/9_Colour_RGB.png',
+            'path': 'https://9nowlivehls-i.akamaihd.net/hls/live/226644/ch9melprd/master.m3u8',
+            'is_playable': True
         }
     ],
     'TAS': [
@@ -231,6 +249,12 @@ STREAM_MAP = {
             'label': '7mate Melbourne',
             'icon': 'https://s.yimg.com/ea/img/-/150930/7mate_logo_1b0mbg3-1b0mbg8.png',
             'path': 'https://sevenwestmedia01-i.akamaihd.net/hls/live/224839/MEL3/master.m3u8',
+            'is_playable': True
+        },
+        {
+            'label': 'Nine Melbourne',
+            'icon': 'https://s3-ap-southeast-2.amazonaws.com/mi9-vms-images-prod/2015/11/11/9_Colour_RGB.png',
+            'path': 'https://9nowlivehls-i.akamaihd.net/hls/live/226644/ch9melprd/master.m3u8',
             'is_playable': True
         }
     ],
@@ -258,6 +282,12 @@ STREAM_MAP = {
             'icon': 'https://s.yimg.com/ea/img/-/150930/7mate_logo_1b0mbg3-1b0mbg8.png',
             'path': 'https://sevenwestmedia01-i.akamaihd.net/hls/live/224842/ADE3/master.m3u8',
             'is_playable': True
+        },
+        {
+            'label': 'Nine Adelaide',
+            'icon': 'https://s3-ap-southeast-2.amazonaws.com/mi9-vms-images-prod/2015/11/11/9_Colour_RGB.png',
+            'path': 'https://9nowlivehls-i.akamaihd.net/hls/live/226647/ch9adlprd/master.m3u8',
+            'is_playable': True
         }
     ],
     'NT': [
@@ -278,6 +308,12 @@ STREAM_MAP = {
             'icon': 'https://s.yimg.com/ea/img/-/150930/7mate_logo_1b0mbg3-1b0mbg8.png',
             'path': 'https://sevenwestmedia01-i.akamaihd.net/hls/live/224842/ADE3/master.m3u8',
             'is_playable': True
+        },
+        {
+            'label': 'Nine Adelaide',
+            'icon': 'https://s3-ap-southeast-2.amazonaws.com/mi9-vms-images-prod/2015/11/11/9_Colour_RGB.png',
+            'path': 'https://9nowlivehls-i.akamaihd.net/hls/live/226647/ch9adlprd/master.m3u8',
+            'is_playable': True
         }
     ],
     'WA': [
@@ -297,6 +333,12 @@ STREAM_MAP = {
             'label': '7mate Melbourne',
             'icon': 'https://s.yimg.com/ea/img/-/150930/7mate_logo_1b0mbg3-1b0mbg8.png',
             'path': 'https://sevenwestmedia01-i.akamaihd.net/hls/live/224843/PER3/master.m3u8',
+            'is_playable': True
+        },
+        {
+            'label': 'Nine Perth',
+            'icon': 'https://s3-ap-southeast-2.amazonaws.com/mi9-vms-images-prod/2015/11/11/9_Colour_RGB.png',
+            'path': 'https://9nowlivehls-i.akamaihd.net/hls/live/226645/ch9perprd/master.m3u8',
             'is_playable': True
         }
     ]
