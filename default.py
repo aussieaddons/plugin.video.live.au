@@ -230,6 +230,24 @@ STREAM_MAP = {
             'icon': 'https://s3-ap-southeast-2.amazonaws.com/mi9-vms-images-prod/2015/11/11/9_Colour_RGB.png',
             'path': 'https://9nowlivehls-i.akamaihd.net/hls/live/226644/ch9melprd/master.m3u8',
             'is_playable': True
+        },
+        {
+            'label': '9Go Melbourne',
+            'icon': 'https://s3-ap-southeast-2.amazonaws.com/mi9-vms-images-prod/2015/11/12/9Go_Colour_RGB.png',
+            'path': 'https://9nowlivehls-i.akamaihd.net/hls/live/238030/gomelprd/master.m3u8',
+            'is_playable': True
+        },
+        {
+            'label': '9Gem Melbourne',
+            'icon': 'https://s3-ap-southeast-2.amazonaws.com/mi9-vms-images-prod/2015/11/13/9Gem_Colour_RGB.png',
+            'path': 'https://9nowlivehls-i.akamaihd.net/hls/live/238025/gemmelprd/master.m3u8',
+            'is_playable': True
+        },
+        {
+            'label': '9Life Melbourne',
+            'icon': 'https://s3-ap-southeast-2.amazonaws.com/mi9-vms-images-prod/2015/11/14/9Life_Colour_RGB.png',
+            'path': 'https://9nowlivehls-i.akamaihd.net/hls/live/238035/lifemelprd/master.m3u8',
+            'is_playable': True
         }
     ],
     'TAS': [
